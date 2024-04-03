@@ -1,9 +1,12 @@
-# flutter_appjobsheet2_mpl
+# Tugas Flutter Mobile Programing Lanjutan
 
-A new Flutter project.
+Halloo
 
-## Getting Started
+## Introduction
 
+Nama   : Miswanto
+NIM    : STI202102207
+Kode   : #111
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
